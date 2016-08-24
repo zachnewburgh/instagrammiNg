@@ -7,7 +7,7 @@
       function($routeProvider) {
         $routeProvider
          .when('/', {
-           templateUrl: 'instagrammiNg/dashboard.html'
+           templateUrl: 'instagrammiNg/views/dashboard.html'
           });
       }
     ]);
