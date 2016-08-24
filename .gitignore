@@ -20,5 +20,5 @@
 # Ignore Byebug command history file.
 .byebug_history
 
-INSTAGRAM_ID=c925320781a9430e8ef5149aec89c4af
-INSTAGRAM_SECRET=bfa7592d2db94be8bf64616b27d99f17
+# Ignore .env
+.env
