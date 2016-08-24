@@ -2,7 +2,7 @@
   'use strict';
 
   angular
-    .module('angular_rails', ['templates','ngRoute'])
+    .module('instagrammiNg', ['templates','ngRoute'])
     .config(['$routeProvider', 
       function($routeProvider) {
         $routeProvider
